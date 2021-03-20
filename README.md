@@ -85,3 +85,10 @@ To feature your fork here, edit this section and open a PR!
   [here](https://github.com/nelsontky/gh-pages-url-shortener/issues/49#issue-745134937).
 - [gh-short-url](https://github.com/mayandev/gh-short-url) - A npm command line
   tool that use github pages to convert short url.
+
+## 添加主域名跳转
+
+-实现主域名跳转；
+-当二级目录不存在时，依然会跳转到该域名；
+-在index.html的第2行中把网址修改成你想跳转的域名。
+
